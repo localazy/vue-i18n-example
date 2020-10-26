@@ -1,6 +1,6 @@
 # vue-18n-example
 This is an example repository showing how to use Localazy with vue-18n for localization management.
-To learn more, check out the [blog post](https://https:/localazy.com/blog/how-to-localize-Vue-js-app-with-vue-i18n-and-localazy) describing the set up in detail.
+To learn more, check out the [blog post](https:/localazy.com/blog/how-to-localize-vue-js-app-with-vue-i18n-and-localazy) describing the set up in detail.
 
 ## Running this repo
 Note that in order to run this repo you will need to register and create a new application in Localazy.
