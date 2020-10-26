@@ -3,7 +3,6 @@ node_modules
 /dist
 
 # Localazy
-localazy.keys.json
 
 
 # local env files
