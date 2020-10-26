@@ -1,0 +1,13 @@
+{
+  "community_chat" : "Community-Chat",
+  "core_docs" : "Kerndokumente",
+  "documentation" : "Eine Anleitung und Rezepte zum Konfigurieren und Anpassen dieses Projekts finden Sie im {link}",
+  "documentation_link" : "vue-cli Dokumentation",
+  "ecosystem" : "Ökosystem",
+  "essential_links" : "Wesentliche Links",
+  "forum" : "Forum",
+  "installed_plugins" : "Installierte CLI-Plugins",
+  "news" : "Neuigkeiten",
+  "vue_logo" : "Vue logo",
+  "welcome" : "Willkommen bei Ihrer Vue.js App"
+}

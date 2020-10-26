@@ -1,10 +1,10 @@
 {
     "upload": {  
       "type": "json",
-      "files": "translations/en.json"         
+      "files": "src/assets/locales/en.json"         
     },
     
     "download": {
-      "files": "translations/${lang}.json"
+      "files": "src/assets/locales/${lang}.json"
     }
 }

@@ -1,0 +1,13 @@
+{
+    "vue_logo": "Vue logo",
+    "welcome": "Welcome to Your Vue.js App",
+    "documentation": "For a guide and recipes on how to configure / customize this project, check out the {link}",
+    "documentationlink": "vue-cli documentation",
+    "installed_plugins": "Installed CLI Plugins",
+    "essential_links": "Essential Links",
+    "core_docs": "Core Docs",
+    "forum": "Forum",
+    "community_chat": "Community chat",
+    "news": "News",
+    "ecosystem": "Ecosystem"
+}

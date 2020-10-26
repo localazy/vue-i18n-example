@@ -1,14 +1,18 @@
 <template>
   <div id="app">
-    <h1>{{$t('hello')}}</h1>
-    <h2>{{$t('stay_awhile_and_listen')}}</h2>
+    <img :alt="$t('vue_logo')" src="./assets/logo.png">
+    <HelloWorld :msg="$t('welcome')"/>
   </div>
 </template>
 
 <script>
+import HelloWorld from './components/HelloWorld.vue'
 
 export default {
   name: 'App',
+  components: {
+    HelloWorld
+  }
 }
 </script>
 
