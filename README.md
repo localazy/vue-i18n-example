@@ -1,7 +1,7 @@
 # vue-18n-example
 ![Vue Starter in German](./src/assets/vue-starter-german.png)
 This is an example repository showing how to use Localazy with vue-18n for localization management.
-To learn more, check out the [blog post](https:/localazy.com/blog/how-to-localize-vue-js-app-with-vue-i18n-and-localazy) describing the set up in detail.
+To learn more, check out the [blog post](https://localazy.com/blog/how-to-localize-vuejs-app-with-vue-i18n-and-localazy) describing the set up in detail.
 
 ## Testing out this repo
 This repository contains translations from an actual [Localazy Vue i18n example](https://localazy.com/p/vue-i18-example) app. You can try to run `localazy download` to see how it works. However, this app is in read-only mode, meaning that `localazy upload` will fail. 
