@@ -1,4 +1,5 @@
 # vue-18n-example
+![Vue Starter in German](./src/assets/vue-starter-german.png)
 This is an example repository showing how to use Localazy with vue-18n for localization management.
 To learn more, check out the [blog post](https:/localazy.com/blog/how-to-localize-vue-js-app-with-vue-i18n-and-localazy) describing the set up in detail.
 
@@ -21,6 +22,7 @@ npm run serve
 - [create an app](https://localazy.com/my/create). Although English is recommended, you may use any language as source 
 - select *Vue.js* integration option and install Localazy [CLI](https://testing.localazy.com/docs/cli/installation),
 - Retrieve your _writeKey_ and _readKey_ from the integration guide page and change them in `localazy.keys.json`,
+- it is recommended to add `localazy.keys.json` do _.gitignore_
 - remove every locale file except for your source locale (presumably en.json)
 - fill in your source phrases,
 - run `localazy upload`,
