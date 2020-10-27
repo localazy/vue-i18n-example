@@ -1,5 +1,6 @@
 # vue-18n-example
 ![Vue Starter in German](./src/assets/vue-starter-german.png)
+
 This is an example repository showing how to use Localazy with vue-18n for localization management.
 To learn more, check out the [blog post](https://localazy.com/blog/how-to-localize-vuejs-app-with-vue-i18n-and-localazy) describing the set up in detail.
 
